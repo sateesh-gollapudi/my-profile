@@ -10,6 +10,15 @@ a{
   margin: 10px 20px;
   text-decoration: none;
 }
+.links{
+  color: #900c3f;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.links:hover{
+  color: #588da8;
+}
 a:hover{
   color: #EAF6F6;
 }
@@ -88,10 +97,15 @@ h3{
   float: left;
   margin-right: 30px;
 }
-.chilli-img{
+.clg-img{
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+.gov-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 .btn {
 	-moz-box-shadow: 0px 10px 14px -7px #276873;
